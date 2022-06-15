@@ -15,11 +15,11 @@ push 4$
     push 5    $
       push    6        $
 pall$
-mike@ubuntu:~/0x19-stacks_queues_lifo_fifo$
+newton@ubuntu:~/0x19-stacks_queues_lifo_fifo$
 ```
 Monty byte code files can contain blank lines (empty or made of spaces only, and any additional text after the opcode or its required argument is not taken into account:
 ```
-julien@ubuntu:~/0x19-stacks_queues_lifo_fifo$ cat -e bytecodes/001.m
+sarah@ubuntu:~/0x19-stacks_queues_lifo_fifo$ cat -e bytecodes/001.m
 push 0 Push 0 onto the stack$
 push 1 Push 1 onto the stack$
 $
@@ -35,7 +35,7 @@ $
       push    6        $
 $
 pall This is the end of our program. Monty is awesome!$
-julien@ubuntu:~/0x19-stacks_queues_lifo_fifo$
+sarah@ubuntu:~/0x19-stacks_queues_lifo_fifo$
 ```
 # The monty program
 
